@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamacaNegocio.Bll", "Camaca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamadaData", "CamadaData\CamadaData.csproj", "{9F6C9F18-9AC8-4093-AC01-9C805A132B68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{B8F24A3E-2BC4-4609-8E67-F1EC8E70E9B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{9F6C9F18-9AC8-4093-AC01-9C805A132B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F6C9F18-9AC8-4093-AC01-9C805A132B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F6C9F18-9AC8-4093-AC01-9C805A132B68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8F24A3E-2BC4-4609-8E67-F1EC8E70E9B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F24A3E-2BC4-4609-8E67-F1EC8E70E9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F24A3E-2BC4-4609-8E67-F1EC8E70E9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F24A3E-2BC4-4609-8E67-F1EC8E70E9B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

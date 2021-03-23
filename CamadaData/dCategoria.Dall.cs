@@ -226,6 +226,8 @@ namespace CamadaData
                 sqlCmd.CommandType = CommandType.StoredProcedure;
                 SqlDataAdapter sqlDat = new SqlDataAdapter(sqlCmd);
                 sqlDat.Fill(dtResultado);
+
+                //"select * from tabela";
             }
             catch(Exception ex)
             {
